@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+The best way to deploy this app is to use netify.
+1. Login to netify
+2. Choose site in the meny bar
+3. Drag the build folder over where it says 
+"Want to deploy a new site without connecting to Git?
+Drag and drop your site output folder here"
